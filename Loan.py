@@ -1,6 +1,6 @@
 import pandas as pd
 import pickle
-import scikit learn
+
 from sklearn.ensemble import RandomForestClassifier
 import streamlit as st
 file = 'data.pkl'
